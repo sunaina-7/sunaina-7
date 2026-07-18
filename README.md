@@ -288,7 +288,7 @@ An interactive Streamlit dashboard that visualizes datasets, performs machine le
 ### 🎓 Computer Science Student
 **Guru Nanak Dev Engineering College, Ludhiana**
 
-**2023 – Present**
+**2026 – Present**
 
 Currently pursuing a Bachelor's degree in Computer Science Engineering with a focus on Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 
